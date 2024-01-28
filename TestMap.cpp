@@ -1,4 +1,6 @@
-#include "map.h"														// Defines template Map<Key, Value>
+#include "Map.h"
+#include "Book.h"
+#include "Map.h"														// Defines template Map<Key, Value>
 #include <iostream>
 
 // g++ -g -Wall -pedantic TestMap.cpp -o hello
