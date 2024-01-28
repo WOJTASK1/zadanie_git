@@ -2,6 +2,7 @@
 #include <string>
 #include <vector>
 using namespace std;
+// Klasa Employee przechowująca dane personalne pracownika
 class Employee {
 public:
     string name;
